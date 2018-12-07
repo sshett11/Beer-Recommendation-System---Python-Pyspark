@@ -28,7 +28,6 @@ spark-submit item-based-recommender.py  {path of the data file beer_data.csv in 
 {preference for appearance} {preference for palate} {preference for taste}
 8.) make sure you pass 8 arguments while you execute the command.
 9.) user preference can be given either 2 or  1 . where 2 means they prefer, 1 is they don't prefer
-10.) user id can be seen in user_items.csv file
 
 
 -------DATA FILES EXPLAINED-------
