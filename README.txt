@@ -1,7 +1,7 @@
 
 --------------------------------INSTRUCTIONS TO EXECUTE ------------------------------------
 
-Python version used - 2.7.15 and keep all data files in the same folder where you will be executing .py file.
+Python version used - 2.7.15 and keep all the data files in the same folder where you will be executing .py file.
 
 For local server  -
 1.) sudo apt-get install python-tk
