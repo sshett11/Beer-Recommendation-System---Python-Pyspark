@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <content url="file:///srv/spark-1.6.3/python" />
+    <content url="jar:///srv/spark-1.6.3/python/lib/py4j-0.9-src.zip!/">
+      <excludeFolder url="jar:///srv/spark-1.6.3/python/lib/py4j-0.9-src.zip!/" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 2.7 (suraj)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
