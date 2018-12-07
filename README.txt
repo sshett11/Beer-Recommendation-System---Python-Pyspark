@@ -18,7 +18,7 @@ Other Individual Parameters - 2 2 1 2
 
 For Amazon aws or similar (item-item) -
 1.) Download zip file of the project
-2.) You have two folder which out of them one is ITEM-BASED-RECOMMENDER & do changes in code (remove tkinter and take arguments from sys.argv[])
+2.) You have two .py files which out of them one is ITEM-BASED-RECOMMENDER(SPARK) & then do changes in code(remove tkinter and take arguments from sys.argv[])
 3.) Connect to the cluster and check for pyspark version using command : pyspark
 4.) Insert the item-based_recommender.py file in the cluster by using WINSCP drag and drop .
 5.) Now insert the data file into the cluster by moving them to edge node usig WINSCP and push them to name node using: hadoop fs -put beer_data.csv /user/amekala/
